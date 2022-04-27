@@ -22,9 +22,9 @@ function myButtonClicked() {
   const userInteger = parseInt(document.getElementById("integer").value)
   if (userInteger > -1) {
     document.getElementById("answer").innerHTML =
-      "The integer you input is positive."
+      "The integer you entered is positive."
   } else {
     document.getElementById("answer").innerHTML =
-      "The integer you input is a negative."
+      "The integer you entered is negative."
   }
 }

@@ -18,31 +18,31 @@ h1 {
   font: 16pt Verdana, Geneva, Arial, Helvetica, sans-serif;
   font-weight: bold;
   line-height: 20pt;
-  color: darkseagreen;
+  color: black;
 }
 
 h2 {
   font: 14pt Verdana, Geneva, Arial, Helvetica, sans-serif;
   font-weight: bold;
   line-height: 18pt;
-  color: #408760;
+  color: #000000;
 }
 
 h3 {
   font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif;
   font-weight: bold;
   line-height: 16pt;
-  color: #6d9a6a;
+  color: #000000;
 }
 
 p.subheader {
   font-weight: bold;
-  color: #4b7255;
+  color: #000000;
 }
 
 div {
   font-weight: bold;
-  color: #32533b;
+  color: #000000;
   margin: 5px;
 }
 
@@ -57,12 +57,12 @@ a {
 
 a:link,
 a:visited {
-  color: #486a51;
+  color: #000000;
 }
 
 a:hover,
 a:active {
-  color: #699174;
+  color: #000000;
 }
 
 div.footer {
